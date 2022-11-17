@@ -1,5 +1,6 @@
 # Lab 8  
 Name: NG Zhe Wee (Derrick)  
+A screenshot of all your tests results from running `npm test`: ![](/Screenshot%20of%20All%20Tests%20Passed.png)    
   
 ## Check Your Understanding:
 **1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.**  
